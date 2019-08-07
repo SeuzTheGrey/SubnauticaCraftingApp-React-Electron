@@ -1,0 +1,389 @@
+{
+    "raw": [
+        {
+            "Minerals": [
+                {
+                    "name": "Copper Ore",
+                    "image": "",
+                    "obtainedFrom": [
+                        "Reefback Leviathan Barnacles",
+                        "Limestone Outcrop",
+                        "Large Resource Deposits"
+                    ],
+                    "Location": [
+                        "Grassy Plateaus",
+                        "Kelp Forest",
+                        "Kelp Forest Caves",
+                        "Safe Shallows",
+                        "Safe Shallows Caves",
+                        "Sparse Reef",
+                        "Underwater Islands"
+                    ]
+                },
+                {
+                    "name": "Cave Sulfur",
+                    "image": "",
+                    "obtainedFrom": [
+                        "Sulphur Plant"
+                    ],
+                    "Location": [
+                        "Safe Shallows Caves",
+                        "Kelp Forest Caves"
+                    ]
+                },
+                {
+                    "name": "Diamond",
+                    "image": "",
+                    "obtainedFrom": [
+                        "Seabed",
+                        "Large Resource Deposits",
+                        "Shale Outcrop"
+                    ],
+                    "Location": [
+                        "Blood Kelp Caves",
+                        "Deep Grand Reef",
+                        "Grand Reef",
+                        "Inactive Lava Zone",
+                        "Bulb Zone",
+                        "Underwater Islands",
+                        "Mountains",
+                        "Mountains Caves"
+                    ]
+                },
+                {
+                    "name": "Gas Pod",
+                    "image": "",
+                    "obtainedFrom": [
+                        "Gasopod"
+                    ],
+                    "Location": [
+                        "Safe Shallows",
+                        "Dunes",
+                        "Crash Zone Mesas"
+                    ]
+                },
+                {
+                    "name": "Gold",
+                    "image": "",
+                    "obtainedFrom": [
+                        "Sandstone Outcrop",
+                        "Shale Outcrop",
+                        "Large Resource Deposits"
+                    ],
+                    "Location": [
+                        "Blood Kelp Caves",
+                        "Crash Zone",
+                        "Deep Grand Reef",
+                        "Dunes",
+                        "Grand Reef",
+                        "Grassy Plateaus",
+                        "Jellyshroom Cave",
+                        "Bulb Zone",
+                        "Bulb Zone Caves",
+                        "Mushroom Forest",
+                        "Safe Shallows Caves",
+                        "Underwater Islands"
+                    ]
+                },
+                {
+                    "name": "Kyanite",
+                    "image": "",
+                    "obtainedFrom": [
+                        "Seabed",
+                        "Large Resource Deposits"
+                    ],
+                    "Location": [
+                        "Lava Lakes",
+                        "Inactive Lava Zone",
+                        "Lava Castle"
+                    ]
+                },
+                {
+                    "name": "Lead",
+                    "image": "",
+                    "obtainedFrom": [
+                        "Sandstone Outcrop",
+                        "Large Resource Deposits"
+                    ],
+                    "Location": [
+                        "Bulb Zone",
+                        "Crash Zone",
+                        "Crash Zone Mesas",
+                        "Dunes",
+                        "Dunes Caves",
+                        "Grand Reef",
+                        "Grassy Plateaus",
+                        "Kelp Forest",
+                        "Kelp Forest Caves",
+                        "Lava Geyser",
+                        "Mountains",
+                        "Mountain Island",
+                        "Mushroom Forest",
+                        "Safe Shallows",
+                        "Safe Shallows Caves"
+                    ]
+                },
+                {
+                    "name": "Lithium",
+                    "image": "",
+                    "obtainedFrom": [
+                        "Shale Outcrop",
+                        "Seabed",
+                        "Ground",
+                        "Large Resource Deposits"
+                    ],
+                    "Location": [
+                        "Crag Field",
+                        "Crash Zone",
+                        "Dunes",
+                        "Dunes Caves",
+                        "Floating Island",
+                        "Grassy Plateaus",
+                        "Jellyshroom Cave",
+                        "Bulb Zone",
+                        "Bulb Zone Caves",
+                        "Mushroom Forest",
+                        "Mushroom Forest Caves",
+                        "Mountain Island",
+                        "Mountains Caves",
+                        "Mountains",
+                        "Sea Treader's Path",
+                        "Sparse Reef"
+                    ]
+                },
+                {
+                    "name": "Magnetite",
+                    "image": "",
+                    "obtainedFrom": [
+                        "Seabed",
+                        "Large Resource Deposits"
+                    ],
+                    "Location": [
+                        "Jellyshroom Cave",
+                        "Mountains",
+                        "Mountain Island",
+                        "Mountains Caves"
+                    ]
+                },
+                {
+                    "name": "Metal Salvage",
+                    "image": "",
+                    "obtainedFrom": [
+                        "Seabed"
+                    ],
+                    "Location": [
+                        "Aurora",
+                        "Blood Kelp Zone",
+                        "Crash Zone",
+                        "Dunes",
+                        "Grassy Plateaus",
+                        "Kelp Forest",
+                        "Safe Shallows"
+                    ]
+                },
+                {
+                    "name": "Nickel Ore",
+                    "image": "",
+                    "obtainedFrom": [
+                        "Large Resource Deposits",
+                        "Seabed"
+                    ],
+                    "Location": [
+                        "Lost River"
+                    ]
+                },
+                {
+                    "name": "Quartz",
+                    "image": "",
+                    "obtainedFrom": [
+                        "Seabed",
+                        "Large Resource Deposits"
+                    ],
+                    "Location": [
+                        "Blood Kelp Caves",
+                        "Blood Kelp Zone",
+                        "Crash Zone",
+                        "Dunes",
+                        "Grand Reef",
+                        "Grassy Plateaus",
+                        "Kelp Forest",
+                        "Safe Shallows",
+                        "Safe Shallows Caves",
+                        "Sea Treader's Path",
+                        "Sea Treader's Tunnel Caves"
+                    ]
+                },
+                {
+                    "name": "Ruby",
+                    "image": "",
+                    "obtainedFrom": [
+                        "Seabed"
+                    ],
+                    "Location": [
+                        "Bone Fields Caves",
+                        "Bulb Zone",
+                        "Deep Grand Reef",
+                        "Deep Sparse Reef",
+                        "Grand Reef",
+                        "Inactive Lava Zone Corridor",
+                        "Lost River",
+                        "Mountains Caves",
+                        "Sea Treader's Path",
+                        "Sea Treader's Tunnel Caves"
+                    ]
+                },
+                {
+                    "name": "Salt Deposit",
+                    "image": "",
+                    "obtainedFrom": [
+                        "Large Resource Deposits",
+                        "Purple Pinecone",
+                        "Seabed",
+                        "Water Filtration Machine"
+                    ],
+                    "Location": [
+                        "Aurora",
+                        "Crash Zone",
+                        "Deep Grand Reef",
+                        "Floating Island",
+                        "Grassy Plateaus",
+                        "Kelp Forest",
+                        "Bulb Zone",
+                        "Mushroom Forest",
+                        "Safe Shallows",
+                        "Sparse Reef",
+                        "Underwater Islands"
+                    ]
+                },
+                {
+                    "name": "Alien Feces",
+                    "image": "",
+                    "obtainedFrom": [
+                        "Seabed (Periodically dropped by Sea Treader Leviathans)"
+                    ],
+                    "Location": [
+                        "Grand Reef",
+                        "Sea Treader's Path",
+                        "Sea Treader's Tunnel Caves"
+                    ]
+                },
+                {
+                    "name": "Silver Ore",
+                    "image": "",
+                    "obtainedFrom": [
+                        "Sandstone Outcrop",
+                        "Large Resource Deposits"
+                    ],
+                    "Location": [
+                        "Dunes",
+                        "Grassy Plateaus",
+                        "Kelp Forest",
+                        "Kelp Forest Caves",
+                        "Safe Shallows Caves"
+                    ]
+                },
+                {
+                    "name": "Stalker Teeth",
+                    "image": "",
+                    "obtainedFrom": [
+                        "Seabed (Periodically dropped by Stalkers under certain conditions)"
+                    ],
+                    "Location": [
+                        "Kelp Forest"
+                    ]
+                },
+                {
+                    "name": "Crystalline Sulfur",
+                    "image": "",
+                    "obtainedFrom": [
+                        "Seabed"
+                    ],
+                    "Location": [
+                        "Lava Lakes",
+                        "Inactive Lava Zone",
+                        "Lost River"
+                    ]
+                },
+                {
+                    "name": "Uraninite Crystal",
+                    "image": "",
+                    "obtainedFrom": [
+                        "Seabed",
+                        "Large Resource Deposits"
+                    ],
+                    "Location": [
+                        "Blood Kelp Zone",
+                        "Grand Reef",
+                        "Lost River",
+                        "Mountains"
+                    ]
+                }
+            ],
+            "Corals": [
+                {
+                    "name": "Coral Tube Sample",
+                    "image": "",
+                    "obtainedFrom": [
+                        "Giant Coral Tubes",
+                        "Slanted Shell Plate"
+                    ],
+                    "Location": [
+                        "Crash Zone",
+                        "Grassy Plateaus",
+                        "Bulb Zone",
+                        "Mushroom Forest",
+                        "Mountains Caves",
+                        "Safe Shallows",
+                        "Safe Shallows Caves"
+                    ]
+                },
+                {
+                    "name": "Fungal Sample",
+                    "image": "",
+                    "obtainedFrom": [
+                        "Tree Mushroom"
+                    ],
+                    "Location": [
+                        "Mushroom Forest"
+                    ]
+                },
+                {
+                    "name": "Brain Coral Sample",
+                    "image": "",
+                    "obtainedFrom": [
+                        "Brain Coral"
+                    ],
+                    "Location": [
+                        "Grassy Plateaus",
+                        "Kelp Forest",
+                        "Bulb Zone",
+                        "Mushroom Forest",
+                        "Mountains",
+                        "Safe Shallows"
+                    ]
+                },
+                {
+                    "name": "Table Coral Sample",
+                    "image": "",
+                    "obtainedFrom": [
+                        "Table Coral"
+                    ],
+                    "Location": [
+                        "Bulb Zone",
+                        "Crash Zone",
+                        "Crash Zone Mesas",
+                        "Grassy Plateaus",
+                        "Kelp Forest",
+                        "Kelp Forest Caves",
+                        "Lost River",
+                        "Mushroom Forest",
+                        "Reefback Leviathan",
+                        "Safe Shallows"
+                    ]
+                }
+            ],
+            "Flora": [],
+            "Seeds&Spores": []
+        }
+    ]
+}
