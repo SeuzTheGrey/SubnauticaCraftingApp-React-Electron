@@ -4,6 +4,10 @@ const path = require('path')
 
 // Keep a global reference of the window object, if you don't, the window will
 // be closed automatically when the JavaScript object is garbage collected.
+
+//To Start Application
+// npm start first
+// npm run electron second
 let mainWindow
 
 function createWindow() {
@@ -11,7 +15,7 @@ function createWindow() {
     mainWindow = new BrowserWindow({
         width: 1200,
         height: 800,
-
+        frame: false,
     });
 
     // and load the index.html of the app.
